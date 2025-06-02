@@ -7,3 +7,7 @@ This is the first file in this folder
 This is some Lorem Ipsum Text
 
 Adding some new text into this file
+
+## WEBSITE Contents
+
+index.html
