@@ -10,4 +10,6 @@ Adding some new text into this file
 
 ## WEBSITE Contents
 
+This contains the contents for the website
+
 index.html
